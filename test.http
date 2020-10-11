@@ -1,0 +1,4 @@
+GET http://localhost:1323/ping?name=monjoub
+
+###
+POST http://localhost:1323/ping
